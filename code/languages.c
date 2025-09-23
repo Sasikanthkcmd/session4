@@ -1,1 +1,1 @@
-c++ developer
+linux developer
