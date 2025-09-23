@@ -1,2 +1,1 @@
-c language
-linux
+c developetr
