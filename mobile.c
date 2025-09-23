@@ -1,0 +1,3 @@
+iphone
+redmi
+samsung
