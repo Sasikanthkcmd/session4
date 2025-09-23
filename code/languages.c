@@ -1,1 +1,1 @@
-c developetr
+c++ developer
