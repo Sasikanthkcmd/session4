@@ -1,0 +1,2 @@
+zero flag
+parity flag
