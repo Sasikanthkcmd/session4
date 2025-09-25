@@ -1,3 +1,0 @@
-iphone
-redmi
-samsung
