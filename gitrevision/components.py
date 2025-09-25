@@ -1,3 +1,0 @@
-resistor
-capactor
-inductor
